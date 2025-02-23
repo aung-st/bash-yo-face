@@ -7,4 +7,3 @@
 # Works fine for alphanumeric characters only :(
 
 echo "$1" | tr '[A-Z]' '[a-z]' | xclip -selection clipboard
-# bash-yo-face
