@@ -1,0 +1,2 @@
+# Notes
+WHY MUST I INSTALL XCLIP
